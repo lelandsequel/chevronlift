@@ -1,0 +1,28 @@
+{
+  "title": "ChevronLift — Automated Crude & Product Scheduling Platform",
+  "tagline": "AI-assisted scheduling for crude oil and refined product logistics across pipelines, terminals, and marine.",
+  "company": "Chevron (Hypothetical)",
+  "role": "Product Management & Energy Systems Architecture",
+  "problem": "Schedulers rely on fragmented systems (pipelines, terminals, marine, refinery plans) and manual spreadsheets to coordinate complex crude and product movements. This causes late conflict discovery, demurrage risk, and constant rework when traders or operations update constraints.",
+  "impact": [
+    "Auto-generated draft daily schedules based on inventory, nominations, vessel ETAs, and pipeline availability, reducing scheduler manual work.",
+    "Surfaced conflicts earlier (tank overfill, incompatible batches, dock timing issues) with human-readable explanations and suggested fixes.",
+    "Reduced demurrage exposure through predictive marine-arrival modeling and structured scenario recomputation.",
+    "Created a unified operational view for schedulers, traders, terminal operators, and marine logistics—replacing multiple disconnected tools."
+  ],
+  "year": "2025",
+  "liveUrl": "https://chevronlift.com",
+  "repoUrl": "https://github.com/lelandsequel/chevronlift",
+  "tags": [
+    "Energy Ops",
+    "Scheduling",
+    "Logistics",
+    "Trading",
+    "Internal Tools"
+  ],
+  "description": [
+    "ChevronLift is an internal scheduling cockpit that centralizes crude and refined product logistics for schedulers, traders, terminal operations, and marine teams.",
+    "It automates movement planning across pipelines, tanks, and vessels, detects conflicts early, and gives schedulers a structured way to recompute plans when realities shift.",
+    "The system keeps humans in control of the schedule while using AI to handle the heavy computational lifting, generating feasible draft plans and narrating operational risk."
+  ]
+}
